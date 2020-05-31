@@ -128,9 +128,12 @@
     <ClCompile Include="Перевантаження.cpp" />
     <ClCompile Include="ПеревантаженняFriend.cpp" />
     <ClCompile Include="ПеревантаженняIostream.cpp" />
+    <ClCompile Include="ПеревантаженняNewDel.cpp" />
+    <ClCompile Include="Перевантаження[]%28%29.cpp" />
     <ClCompile Include="Приведення.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Arr.h" />
     <ClInclude Include="Number.h" />
     <ClInclude Include="Point.h" />
     <ClInclude Include="String_.h" />
