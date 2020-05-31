@@ -30,6 +30,9 @@
     <ClCompile Include="ПеревантаженняFriend.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ПеревантаженняIostream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Point.h">

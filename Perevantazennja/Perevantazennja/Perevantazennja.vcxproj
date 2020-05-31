@@ -127,6 +127,7 @@
     <ClCompile Include="ПеревантаженнСтрінг.cpp" />
     <ClCompile Include="Перевантаження.cpp" />
     <ClCompile Include="ПеревантаженняFriend.cpp" />
+    <ClCompile Include="ПеревантаженняIostream.cpp" />
     <ClCompile Include="Приведення.cpp" />
   </ItemGroup>
   <ItemGroup>
