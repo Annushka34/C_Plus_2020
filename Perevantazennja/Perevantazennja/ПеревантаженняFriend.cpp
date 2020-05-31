@@ -15,8 +15,6 @@ void main()
 	Point p4;
 	p4 = p3;
 	p4.Show();
-	//-----------------
-	//------------------skjasbckjsabc
-	//-------------------cacjksnckjsancja
+
 	//* / + - (*) () [] -> > < == <= >= ! != << >> new delete 
 }
