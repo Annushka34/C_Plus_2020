@@ -59,6 +59,12 @@ public:
 enum class Types { Student, Employee };
 
 
+void War(User* u1, User* u2)
+{
+	u1->ShowData();
+	u2->ShowData();
+}
+
 void main()
 {
 	srand(time(0));
@@ -98,6 +104,10 @@ void main()
 	{
 		users[i]->ShowData();
 	}
+	cout << "-------------------------------\n";
+	Student* st1 = new Student();
+	Employee* em1 = new Employee();
+	War(st1, em1);
 	
 	delete user;
 }
