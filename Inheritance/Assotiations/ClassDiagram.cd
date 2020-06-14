@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Room">
+    <Position X="8.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Header.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Furniture">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAEAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Header.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Owner">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAEAAAAAAIAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Header.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building">
+    <Position X="2" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAYAAAAgAQAABIAAAAAAQAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Building.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="owner" />
+      <Field Name="furniture" />
+      <Field Name="rooms" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
