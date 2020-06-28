@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{ff2c7336-8415-4976-bf15-f82dcacc2a78}</ProjectGuid>
-    <RootNamespace>Virtual</RootNamespace>
+    <ProjectGuid>{70ab50fe-4866-472c-b7c2-5112c20fb7ae}</ProjectGuid>
+    <RootNamespace>ListQueueStackNode</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,13 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="AbstractClass.cpp" />
-    <ClCompile Include="AnimalVirtual.cpp" />
-    <ClCompile Include="Interfaces.cpp" />
-    <ClCompile Include="PureVirtualDestructor.cpp" />
-    <ClCompile Include="Source.cpp" />
-    <ClCompile Include="Tetris.cpp" />
-    <ClCompile Include="VirtualBaseClass.cpp" />
+    <ClCompile Include="List.cpp" />
+    <ClCompile Include="Queue.cpp" />
+    <ClCompile Include="Stack.cpp" />
+    <ClCompile Include="ПовнозвязнийСписок.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

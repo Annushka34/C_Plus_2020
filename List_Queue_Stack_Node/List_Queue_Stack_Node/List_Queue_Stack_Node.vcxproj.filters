@@ -15,25 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AnimalVirtual.cpp">
+    <ClCompile Include="Stack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Tetris.cpp">
+    <ClCompile Include="Queue.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="AbstractClass.cpp">
+    <ClCompile Include="List.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="PureVirtualDestructor.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Interfaces.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="VirtualBaseClass.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Source.cpp">
+    <ClCompile Include="ПовнозвязнийСписок.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
