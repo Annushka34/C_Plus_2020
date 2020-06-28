@@ -142,6 +142,7 @@
     <ClCompile Include="List.cpp" />
     <ClCompile Include="Queue.cpp" />
     <ClCompile Include="Stack.cpp" />
+    <ClCompile Include="Template.cpp" />
     <ClCompile Include="ПовнозвязнийСписок.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
