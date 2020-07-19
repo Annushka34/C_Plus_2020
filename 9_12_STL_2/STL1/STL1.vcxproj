@@ -117,7 +117,6 @@
     <ClCompile Include="queue.cpp" />
     <ClCompile Include="queue2.cpp" />
     <ClCompile Include="stack.cpp" />
-    <ClCompile Include="stack1.cpp" />
     <ClCompile Include="stringIter.cpp" />
     <ClCompile Include="StringIterator.cpp" />
     <ClCompile Include="vector.cpp" />

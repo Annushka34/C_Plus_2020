@@ -36,9 +36,6 @@
     <ClCompile Include="arrayIter.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="stack1.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="stringIter.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
